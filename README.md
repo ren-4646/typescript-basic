@@ -1,0 +1,2 @@
+# typescript-basic
+テラコヤ課題提出用リポジトリ_TypeScriptの基礎を学ぼう
